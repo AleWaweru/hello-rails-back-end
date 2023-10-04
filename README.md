@@ -104,7 +104,7 @@ To run the project, execute the following command:
 ```
 
 ### Frontend link   
-- [🚀 Frontend](http://localhost:3001/)
+- [🚀 Frontend](https://github.com/AleWaweru/hello_react_front_end)
 
 ### Run tests
 
